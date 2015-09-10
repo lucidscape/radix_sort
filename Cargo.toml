@@ -1,0 +1,8 @@
+[package]
+name = "radix_sort"
+version = "0.1.0"
+authors = ["Rod Furlan (Lucidscape) <rod@lucidscape.com>"]
+
+[dependencies]
+num = "0.1.26"
+rand = "0.3"
